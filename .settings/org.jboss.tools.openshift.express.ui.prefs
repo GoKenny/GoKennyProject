@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=554fb82de0b8cd3d7c0000eb
+org.jboss.tools.openshift.ApplicationName=kfangtech
+org.jboss.tools.openshift.Connection=https\://kuinai.fang%40gmail.com@openshift.redhat.com
+org.jboss.tools.openshift.DeployFolder=deployments
+org.jboss.tools.openshift.Domain=kuinai
+org.jboss.tools.openshift.RemoteName=origin
